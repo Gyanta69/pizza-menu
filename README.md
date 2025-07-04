@@ -1,3 +1,3 @@
 # A pizza menu application made with React.
 
-<img src="Pizzamenu.png" width="120" alt="Pizza Menu"/>
+<img src="Pizzamenu.png" alt="Pizza Menu"/>
