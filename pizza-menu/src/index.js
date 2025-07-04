@@ -79,6 +79,18 @@ function Menu() {
       <Pizza name="Pizza Funghi" ingredients="Tomato, mozarella, mushrooms, and onion"
       photoName="pizzas/funghi.jpg" price= {12}/>
 
+      <pizza name="Pizza Salamino" ingredients="Tomato, mozarella, and pepperoni"
+      photoName="pizzas/salamino.jpg" price={15}/>
+
+      <Pizza name="Pizza Prosciutto" ingredients="Tomato, mozarella, ham, aragula, and burrata cheese"
+      photoName="pizzas/prosciutto.jpg" price={18}/>
+
+      <Pizza name=" Pizza Focaccia" ingredients="Bread with italian olive oil and rosemary"
+      photoName="pizzas/focaccia.jpg" price={6}/>
+
+      <Pizza name="Pizza Margherita" ingredients="Tomato and mozarella"
+      photoName="pizzas/margherita.jpg" price={10}/>
+
     </main>
   );
 }
